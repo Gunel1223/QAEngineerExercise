@@ -14,6 +14,9 @@ For example, “The cow jumped over the moon.” should return 6 and “jumped�
 3.	Explain any assumptions in comments.
 4.	Add a README explaining how to execute your tests.
 5.	Share via GitHub etc.*/
+    
+    //1. I split the sentence and remove dots, commas etc and store in an array
+    //2. loop through array and find the longest word
 
 public static String printLongestWord(String sentence) {
 
